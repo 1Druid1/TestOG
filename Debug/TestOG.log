@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Druid\Desktop\TestOG\main.cpp(60,11): warning C4101: eT2: неиспользованная локальная переменная
+  TestOG.vcxproj -> C:\Users\Druid\Desktop\TestOG\Debug\TestOG.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

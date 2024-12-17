@@ -1,17 +1,2 @@
-﻿  ShapesField.cpp
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(10,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(12,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(31,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(64,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(75,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(91,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(93,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(111,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(120,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(126,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(136,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(156,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\max_a\OneDrive\Desktop\TestOG\ShapesField.cpp(159,21): warning C4018: <: несоответствие типов со знаком и без знака
+﻿  main.cpp
   TestOG.vcxproj -> C:\Users\max_a\OneDrive\Desktop\TestOG\Debug\TestOG.exe

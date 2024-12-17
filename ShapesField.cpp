@@ -1,8 +1,8 @@
 #include "ShapesField.h"
 
 
-ShapesField::ShapesField(float x, float y, unsigned int r, unsigned int c, float w, float h, std::vector<sf::Shape*> v, sf::RenderWindow* _window, float speed)
-	: start_pos_x(x), start_pos_y(y), rows(r), columns(c), cell_width(w), cell_height(h), shape_types(v), window(_window), base_speed(speed)
+ShapesField::ShapesField(float x, float y, unsigned int r, unsigned int c, float w, float h, std::vector<sf::Shape*> v, sf::RenderWindow* _window, float speed, States* start_state)
+	: start_pos_x(x), start_pos_y(y), rows(r), columns(c), cell_width(w), cell_height(h), shape_types(v), window(_window), base_speed(speed), current_state(start_state)
 {
 	rows = rows + 2;
 	shapes = { rows, std::vector<sf::Shape*>{columns} };
@@ -167,22 +167,22 @@ void ShapesField::scoring()
 
 void ShapesField::setState(States* state) 
 {
-	if (currentState != state)
+	if (current_state != state)
 	{
-		if (currentState) { currentState->exitAction(*this); }
-		currentState = state;
-		currentState->entryAction(*this);
+		if (current_state) { current_state->exitAction(*this); }
+		current_state = state;
+		current_state->entryAction(*this);
 	}
 	
 }
 
-States* ShapesField::getState() { return currentState; }
+States* ShapesField::getState() { return current_state; }
 
 void ShapesField::update(float dT)
 {
 	delta_time = dT;
 	drawField();
-	currentState->handle(*this);
+	current_state->handle(*this);
 }
 
 

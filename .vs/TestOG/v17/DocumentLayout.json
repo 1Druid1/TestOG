@@ -11,16 +11,16 @@
       "RelativeMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|solutionrelative:Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|solutionrelative:Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\ShapesField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|solutionrelative:ShapesField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\ShapesField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|solutionrelative:ShapesField.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\ShapesField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|solutionrelative:ShapesField.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24714F27-5F37-4CA0-A52A-7EFED22B953F}|TestOG.vcxproj|solutionrelative:Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Button.h",
               "DocumentMoniker": "C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\Button.h",
               "RelativeDocumentMoniker": "Button.h",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Button.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-16T11:37:01.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:37:01.486Z"
             },
             {
               "$type": "Document",
@@ -66,20 +65,20 @@
               "RelativeDocumentMoniker": "ShapesField.cpp",
               "ToolTip": "C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\ShapesField.cpp",
               "RelativeToolTip": "ShapesField.cpp",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAPQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-12T09:37:42.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ShapesField.h",
               "DocumentMoniker": "C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\ShapesField.h",
               "RelativeDocumentMoniker": "ShapesField.h",
               "ToolTip": "C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\ShapesField.h",
               "RelativeToolTip": "ShapesField.h",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAACnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-12T09:37:42.472Z",
               "EditorCaption": ""
@@ -92,7 +91,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\max_a\\OneDrive\\Desktop\\TestOG\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAACeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-12T09:37:42.537Z",
               "EditorCaption": ""

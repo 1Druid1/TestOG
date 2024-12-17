@@ -75,14 +75,14 @@ private:
 	float slow_speed;
 	float delta_time;
 	sf::Shape* generateRandShape(float posx, float posy);
-	States* currentState;
+	States* current_state;
 	int score;
 
 	void deleteOldShapes();
 	void alignmentSlots(float dT);
 
 public:
-	ShapesField(float x, float y, unsigned int r, unsigned int c, float w, float h, std::vector<sf::Shape*> v, sf::RenderWindow* _window, float speed);
+	ShapesField(float x, float y, unsigned int r, unsigned int c, float w, float h, std::vector<sf::Shape*> v, sf::RenderWindow* _window, float speed, States* start_state);
 	void drawField();
 	void moveSlots(float dT);
 	bool stopSlots(float dT);

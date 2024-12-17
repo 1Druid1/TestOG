@@ -33,13 +33,12 @@ int main()
     sh.push_back(tri);
     //sh.push_back(rect2);
 
-    ShapesField shapes_field(static_cast<float>(window.getPosition().x) - 400, static_cast<float>(window.getPosition().y), 3, 3, 105, 105, sh, &window, 700);
-
     StopState stop_state;
     SpinState spin_state;
     ScoringState scoring_state;
 
-    shapes_field.setState(&stop_state);
+
+    ShapesField shapes_field(static_cast<float>(window.getPosition().x) - 400, static_cast<float>(window.getPosition().y), 3, 3, 105, 105, sh, &window, 700, &stop_state);
 
 
     Button start_button(700, 100, 200, 100, "START", 50, sf::Color::Green, &window);
